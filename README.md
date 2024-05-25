@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Irul Linux</h1>
 <h3 align="center">A passionate Ethical Hacking</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irullinux" alt="irullinux" /></a> </p>
 
 - 🌱 I’m currently learning **C#**
 
